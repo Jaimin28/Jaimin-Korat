@@ -19,3 +19,7 @@
 ![Jaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaimin28&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimin28&layout=compact&theme=radical)
+
+### 📊 GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaimin28&theme=radical&hide_border=true)](https://git.io/streak-stats)
